@@ -1,0 +1,21 @@
+GEM
+  remote: http://rubygems.org/
+  remote: http://rubygems.org/
+  specs:
+    addressable (2.2.6)
+    eventmachine (0.12.10)
+    json (1.6.5)
+    libwebsocket (0.1.1)
+    pusher-client (0.2.1)
+      eventmachine (~> 0.12.10)
+      libwebsocket (~> 0.1.0)
+    serialport (1.0.4)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  addressable
+  json
+  pusher-client
+  serialport
